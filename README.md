@@ -1,4 +1,4 @@
-```markdown
+
 # A importância da Inteligência Artificial em Bancos
 
 ## 📒 Descrição
